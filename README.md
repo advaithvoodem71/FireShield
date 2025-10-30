@@ -23,9 +23,6 @@ servo_release.ino
 /Docs/
 exploded_view.pdf
 dimensions.md
-/Media/
-renders/
-prototype_tests/
 
 ### Tools & Materials
 - **CAD Software:** Fusion 360, Onshape, or SolidWorks  
