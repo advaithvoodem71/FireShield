@@ -15,17 +15,6 @@ This project focuses on rapid prototyping and CAD-based development of a refilla
 - Supports refillable bottles or small fluid cartridges
 - Designed for easy scaling and open-source adaptation
 
-### File Structure
-
-/CAD/
-payload_module_v1.f3d
-bottle_adapter_v1.stl
-/Code/
-servo_release.ino
-/Docs/
-exploded_view.pdf
-dimensions.md
-
 ### Tools & Materials
 
 - **CAD Software:** Fusion 360, Onshape, or SolidWorks  
